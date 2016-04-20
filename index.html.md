@@ -13,7 +13,6 @@ search: true
 
 # How it works
 > ![3DRacers Game](/docimages/cover2.jpg?raw=true "3DRacers Corvette Car")
-> ![3DRacers Game](/docimages/3dracers.gif?raw=true "3DRacers Corvette Car")
 
 Welcome to the documentation of 3DRacers.
 
@@ -28,7 +27,7 @@ Order online at the [Store](http://store.3dracers.com) and 3D-Print your car for
  * Arduino-compatible
  * [Open Source](https://github.com/3DRacers) and [Open Hardware](https://github.com/3DRacers/PilotBoard)
 
- 
+> ![3DRacers Game](/docimages/3dracers.gif?raw=true "3DRacers Corvette Car") 
  
 If you can't find your answer here, ask the [Forums](http://forum.3dracers.com) for help. Also don't forget to look at the [Github Repository](https://github.com/3DRacers)
 
