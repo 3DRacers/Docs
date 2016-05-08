@@ -21,7 +21,7 @@ It supports a wide range of sensors and devices, `SPI`, `I2C`, other than the on
 Available pins includes: 8 Digital I/O, 2 PWM, 2 Analog IN, 4 High current (Motors)
 
 ### Other sections
-[Documentation](/docs) - [App Guide](/docs/app.html) - [Online Editor](http://www.3dracers.com/edior) - [Assembly Guide](/start) - [GitHub Sources](https://github.com/3DRacers/Lib3DRacers)
+[Documentation](/docs) - [App Guide](/docs/app.html) - [Online Editor](http://www.3dracers.com/editor) - [Assembly Guide](/start) - [GitHub Sources](https://github.com/3DRacers/Lib3DRacers)
 
 ## Quick Start
 

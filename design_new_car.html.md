@@ -20,7 +20,7 @@ While you can create a new model with every 3D modeling software, with the templ
 just load your custom design and with few easy steps you'll be able to transform it to a functional (and running) 3DRacers.
 
 ### Other sections
-[Existing Car Designs](/docs/#car-models) - [Documentation](/docs) - [App Guide](/docs/app.html) - [Online Editor](http://www.3dracers.com/edior) - [Coding Guide](/docs/code.html)
+[Existing Car Designs](/docs/#car-models) - [Documentation](/docs) - [App Guide](/docs/app.html) - [Online Editor](http://www.3dracers.com/editor) - [Coding Guide](/docs/code.html)
 
 ![3DRacers Game](/docimages/custom-model.jpg?raw=true "3DRacers Custom Car Template")
  

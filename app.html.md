@@ -16,7 +16,7 @@ search: true
 With 3DRacers you can drive your 3D Printed car with the free Smartphone App: [iOS](https://itunes.apple.com/jp/app/3dracers/id1054404136?l=en&mt=8) or [Android](https://play.google.com/store/apps/details?id=com.Lib3DRacers.Lib3DRacers) app.
 
 ### Other sections
-[Documentation](/docs) - [Online Editor](http://www.3dracers.com/edior) - [Coding Guide](/docs/code.html)
+[Documentation](/docs) - [Online Editor](http://www.3dracers.com/editor) - [Coding Guide](/docs/code.html)
 
 ![3DRacers Game](/docimages/app-main.jpg?raw=true "3DRacers Smarthone App")
  
