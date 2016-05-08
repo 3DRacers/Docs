@@ -13,7 +13,7 @@ search: true
 
 # Assembly guide
 
-> ![3DRacers Assembly Guide](/docimages/assembly-1.jpg?raw=true "3DRacers Assembly Guide")
+> ![3DRacers Assembly Guide](/docimages/assembly-complete.jpg?raw=true "3DRacers Assembly Guide")
 
 Welcome driver and thanks for purchasing a 3DRacers!
 
@@ -22,11 +22,15 @@ You are just a few steps away from your first race: just choose one of the [avai
 Also, don't forget to download the [iOS](https://itunes.apple.com/jp/app/3dracers/id1054404136?l=en&mt=8) or [Android](https://play.google.com/store/apps/details?id=com.Lib3DRacers.Lib3DRacers) app.
 
 ### Other sections
-[Documentation](/docs) - [App Guide](/docs/app.html) - [Online Editor](http://www.3dracers.com/edior) - [Coding Guide](/docs/code.html)
+[Documentation](/docs) - [App Guide](/docs/app.html) - [Online Editor](http://www.3dracers.com/editor) - [Coding Guide](/docs/code.html)
 
 ![3DRacers Game](/docimages/cars.jpg?raw=true "3DRacers Assembled Car")
  
+
+ 
 ## What's needed
+
+> ![3DRacers Assembly Guide](/docimages/assembly-1.jpg?raw=true "3DRacers Assembly Guide")
 
 The 3DRacers Kit contains everything needed: screws, axles, gears, and a **pre-programmed 3DRacers Pilot** board.
 
@@ -34,14 +38,16 @@ However, depending on the quality of your print, you could also need a rasp and 
 
 ## Servo center
 
-First of all, plug the Servo connector in the A port. Now plug the LiPo battery and turn on the Pilot Board. 
+First of all, plug the `Servo` to the `A port`. Now plug the `LiPo battery` to the bigger port and turn on the `Pilot Board`. 
 
 You'll hear the servo move to the center position.
 
-![3DRacers Assembly Guide](/docimages/assembly-2.jpg?raw=true "3DRacers Assembly Guide")
-![3DRacers Assembly Guide](/docimages/assembly-2-detail.jpg?raw=true "3DRacers Assembly Guide")
+PS: click on an image to enlarge it
+<a href="/docimages/big/0.jpg?raw=true" target="_blank">![3DRacers Assembly Guide](/docimages/assembly-2.jpg?raw=true "3DRacers Assembly Guide")</a>
 
-Now that the Pilot is working and the Servo is centered, you can **turn off the Board** and remove the LiPo to proceed to the next step.
+This step was useful to center the `Servo` so that it will steer equally from left to right.
+
+Now you can turn off the Board and **remove the LiPo** to proceed to the next step.
 
 <aside class="notice">
 <strong>Remember to unplug the battery</strong> when you work on the board. Screws, axles and other metallic parts could cause a short-circuit!
@@ -49,39 +55,49 @@ Now that the Pilot is working and the Servo is centered, you can **turn off the 
 
 ## 1 - The small parts
 
-Due to differences in every 3D printer, some parts will have a tolerance error. To overcome this problem, the 3DRacers models contains several variations of the same part that are 3D-printed together.
+Due to differences in every 3D printer, some parts will have a tolerance error. 
 
-Pick the steering axles that fit better together (not too loose), and try to insert the front wheels pins. If the hole is too small use the steering arm with the "+" sign instead.
-Also choose the front wheel that will rotate freely but not too loose.
+To overcome this problem, the 3DRacers models contains several variations of the same part that are 3D-printed together.
 
-![3DRacers Assembly Guide](/docimages/assembly-3.jpg?raw=true "3DRacers Assembly Guide")
-![3DRacers Assembly Guide](/docimages/assembly-3-detail.jpg?raw=true "3DRacers Assembly Guide")
-![3DRacers Assembly Guide](/docimages/assembly-3-detail2.jpg?raw=true "3DRacers Assembly Guide")
+Pick the `Steering Arms` that fit better together with the `Steering Axles` (so that can turn freely but not too loose).
+
+<a href="/docimages/big/1.jpg?raw=true" target="_blank">![3DRacers Assembly Guide](/docimages/assembly-3.jpg?raw=true "3DRacers Assembly Guide")</a>
+
+
+
+Also choose the `Front Wheels` (the one with a pass-trough hole) that will rotate freely but not too loose. 
+
+If the hole in the `Steering Arm` is too small for the `Pin`, use the `Steering Arm` with the "**+**" sign instead.
+
+<a href="/docimages/big/1bis.jpg?raw=true" target="_blank">![3DRacers Assembly Guide](/docimages/assembly-3-detail.jpg?raw=true "3DRacers Assembly Guide")</a>
 
 <aside class="notice">
-If you have troubles inserting the nails, try to scrape the hole with the scredriver to widen it
+If you have troubles inserting the Pins, try to scrape the hole with the scredriver to widen it. Also printing with lower temperatures will help.
 </aside>
 
-After plugging each part, try to rotate them in position, to remove any imperfections that could be inside the holes.
+Also, in the following guide, after plugging each part, try to rotate them in position to remove any imperfections that could be inside the holes.
 
 ## 2 - Steering mechanism
 
-Fix the steering axle with a screw, and then the Servo axle to the servo 
+Fix the `Steering Axle` with the `Large Head Screw` in the middle hole. The Steering Axle is directed toward the bottom like in the picture.
 
-![3DRacers Assembly Guide](/docimages/assembly-4.jpg?raw=true "3DRacers Assembly Guide")
+<a href="/docimages/big/2.jpg?raw=true" target="_blank">![3DRacers Assembly Guide](/docimages/assembly-4.jpg?raw=true "3DRacers Assembly Guide")</a>
 
-Be carefull to not tighten too much the screws or rotate the Servo button
+Now plug the `Servo Arm` in the `Servo`.
 
-![3DRacers Assembly Guide](/docimages/assembly-4-detail.jpg?raw=true "3DRacers Assembly Guide")
-![3DRacers Assembly Guide](/docimages/assembly-4-detail2.jpg?raw=true "3DRacers Assembly Guide")
+<aside class="notice">
+Be carefull to not tighten too much the screws or force rotate the Servo!
+</aside>
 
-Now you can put the servo and the Board in the car like in the picture, and fix them with a screw.
+<a href="/docimages/big/2bis.jpg?raw=true" target="_blank">![3DRacers Assembly Guide](/docimages/assembly-4-detail.jpg?raw=true "3DRacers Assembly Guide")</a>
 
-![3DRacers Assembly Guide](/docimages/assembly-5.jpg?raw=true "3DRacers Assembly Guide")
+Now you can put the `Servo` and the Board in the car like in the picture, and fix them with one of the `Standard Screws`.
+
+<a href="/docimages/big/2tris.jpg?raw=true" target="_blank">![3DRacers Assembly Guide](/docimages/assembly-4-detail2.jpg?raw=true "3DRacers Assembly Guide")</a>
 
 ## 3 - The wheels
 
-Put the rubber tires in the wheels.
+Put the `Rubber Tires` on wheels.
 
 ![3DRacers Assembly Guide](/docimages/assembly-6.jpg?raw=true "3DRacers Assembly Guide")
 
@@ -94,34 +110,43 @@ Now put the parts all together and close the hood
 
 ## 5 - The rear axle
 
-Insert the bearings, orange gushings, rear gear and wheels as in the picture, and put them inside the car.
+Insert the `Double Gear` to the back of the car in the **bottom hole**, so that it can spin freely.
 
-![3DRacers Assembly Guide](/docimages/assembly-8.jpg?raw=true "3DRacers Assembly Guide")
-![3DRacers Assembly Guide](/docimages/assembly-8-detail.jpg?raw=true "3DRacers Assembly Guide")
-![3DRacers Assembly Guide](/docimages/assembly-8-detail2.jpg?raw=true "3DRacers Assembly Guide")
+<a href="/docimages/big/5.jpg?raw=true" target="_blank">![3DRacers Assembly Guide](/docimages/assembly-8.jpg?raw=true "3DRacers Assembly Guide")</a>
 
-Just roughly center the wheels, you can adjust the orange gushings position later.
+Insert the `Bearings`, orange `Gushings`, `Single Gear` and `Rear Wheels` as in the picture, and put them inside the car.
+
+<a href="/docimages/big/5bis.jpg?raw=true" target="_blank">![3DRacers Assembly Guide](/docimages/assembly-8-detail.jpg?raw=true "3DRacers Assembly Guide")</a>
+
+<aside class="notice">
+No need to center the wheels exactly, it's easier to adjust the orange Bushings position later.
+</aside>
+
 
 ## 6 - The Pilot board
 
-Take the bearing holder that right height, and insert it together with the 3DRacers Pilot board that will hold the parts together.
+Take the `Bearing holder` with the right height, so that will reach the same level of the adjacent parts.
 
-Insert the screw on the most external hole of the board.
+Now insert the 3DRacers Pilot board and fix it with a screw in the **external hole** of the board.
 
 ![3DRacers Assembly Guide](/docimages/assembly-9.jpg?raw=true "3DRacers Assembly Guide")
 ![3DRacers Assembly Guide](/docimages/assembly-9-detail.jpg?raw=true "3DRacers Assembly Guide")
 
-Check if the motor touch the gears, and that it can spin freely. Otherwhise use an higher bearing holder.
+Check if the motor touch the gears, and that it can spin freely. 
+
+You can adjust the height of the board (and so of the `Motor`) changing the `Bearing Holder`:
 
 ![3DRacers Assembly Guide](/docimages/assembly-9-detail2.jpg?raw=true "3DRacers Assembly Guide")
 
-You can also use the screw hole near the motor, that will move the board slightly forward. 
+Also by changing the hole for the screw, the board will move to the front by 0.5mm.
 
-You can complete the assembly first, then it will be easier to find the right combination of hole/holder height after some trial runs.
+<aside class="notice">
+It's easier to adjust Board position later, after your first assembly it will be easier to find the right combination of hole/holder height.
+</aside>
 
-## 7 - The sunroof
+## 7 - The roof
 
-Insert the sunroof axle and the the top part. Be carefull so that the axle doesn't touch the gears.
+Insert the `Small Axle` and the roof part. Be carefull so that the axle doesn't touch the `Double Gear`.
 
 ![3DRacers Assembly Guide](/docimages/assembly-10.jpg?raw=true "3DRacers Assembly Guide")
 ![3DRacers Assembly Guide](/docimages/assembly-10-detail.jpg?raw=true "3DRacers Assembly Guide")
