@@ -3,9 +3,9 @@ title: 3DRacers - App Guide
 
 
 toc_footers:
-  - <a href='/shop'>Buy 3DRacers</a>
-  - <a href='/models'>Download 3D models STL</a>
-  - <a href='/editor'>Download iOS/Android App</a>
+  - <a href='http://store.3dracers.com'>Buy 3DRacers</a>
+  - <a href='https://github.com/3DRacers/3D-Models'>Download 3D models STL</a>
+  - <a href='/docs/app.html'>Download iOS/Android App</a>
   - <a href='/editor'>Online Editor</a>
 
 search: true
@@ -13,7 +13,7 @@ search: true
 
 # App guide
 
-With 3DRacers you can drive your 3D Printed car with the free Smartphone App: [iOS](https://itunes.apple.com/jp/app/3dracers/id1054404136?l=en&mt=8) or [Android](https://play.google.com/store/apps/details?id=com.Lib3DRacers.Lib3DRacers) app.
+With 3DRacers you can drive your 3D Printed car with the free Smartphone App: [iOS](https://itunes.apple.com/en/app/3dracers/id1054404136) or [Android](https://play.google.com/store/apps/details?id=com.Lib3DRacers.Lib3DRacers) app.
 
 ### Other sections
 [Documentation](/docs) - [Online Editor](http://www.3dracers.com/editor) - [Coding Guide](/docs/code.html)

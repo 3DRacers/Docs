@@ -2,9 +2,9 @@
 title: 3DRacers - Coding Guide
 
 toc_footers:
-  - <a href='/shop'>Buy 3DRacers</a>
-  - <a href='/models'>Download 3D models STL</a>
-  - <a href='/editor'>Download iOS/Android App</a>
+  - <a href='http://store.3dracers.com'>Buy 3DRacers</a>
+  - <a href='https://github.com/3DRacers/3D-Models'>Download 3D models STL</a>
+  - <a href='/docs/app.html'>Download iOS/Android App</a>
   - <a href='/editor'>Online Editor</a>
 
 search: true
