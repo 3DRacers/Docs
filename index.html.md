@@ -50,6 +50,9 @@ If you can't find your answer here, ask the [Forums](http://forum.3dracers.com) 
  - Android: [Download from Play Store](https://play.google.com/store/apps/details?id=com.Lib3DRacers.Lib3DRacers)
  - Read the [Guide and Tips](http://www.3dracers.com/docs/app.html)
  
+## PilotBoard
+ - [PilotBoard Guide](http://www.3dracers.com/docs/board.html)
+
 ## Code
 3DRacers Pilot control board comes pre-programmed, but can be programmed with Arduino IDE. 
 It's compatible with a wide range of sensors and devices and supports shields.
