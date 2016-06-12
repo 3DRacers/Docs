@@ -25,7 +25,7 @@ search: true
 
 <script type="text/javascript">
   DiscourseEmbed = { discourseUrl: 'http://forum.3dracers.com/',
-					 discourseEmbedUrl: 'http://www.3dracers.com/docs/app.html' };
+					 discourseEmbedUrl: 'http://www.3dracers.com/docs/board.html' };
 
   (function() {
 	var d = document.createElement('script'); d.type = 'text/javascript'; d.async = true;

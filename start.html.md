@@ -19,6 +19,8 @@ Welcome driver and thanks for purchasing a 3DRacers!
 
 You are just a few steps away from your first race: just choose one of the [available 3DRacers designs](/docs/#car-models), 3D-Print it and follows the instructions below.
 
+A video guide from user @albertomarcone is available here: [https://youtu.be/a44kIBbRXTI](https://youtu.be/a44kIBbRXTI)
+
 Also, don't forget to download the [iOS](https://itunes.apple.com/jp/app/3dracers/id1054404136?l=en&mt=8) or [Android](https://play.google.com/store/apps/details?id=com.Lib3DRacers.Lib3DRacers) app.
 
 ### Other sections

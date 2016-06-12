@@ -38,8 +38,9 @@ If you can't find your answer here, ask the [Forums](http://forum.3dracers.com) 
 ## Car Models
 > ![3DRacers App](/docimages/cars.jpg?raw=true "3DRacers Cars")
 
- - Choose from: [Corvette](http://www.thingiverse.com/thing:599769), [Muscle Car](http://www.thingiverse.com/thing:706390), Pickup, DeLorean, Armageddon, Max Madness, Battle Tank
- - Preview and customize your car online with the [Online Editor](http://www.3dracers.com/editor)
+ - Choose from: [Corvette](https://github.com/3DRacers/3D-Models/tree/master/stl/Corvette), [Muscle Car](https://github.com/3DRacers/3D-Models/tree/master/stl/Muscle%20Car), [DeLorean](https://github.com/3DRacers/3D-Models/tree/master/stl/DeLorean), Pickup, Armageddon, Max Madness, Battle Tank
+ - Accessories and tires: [GitHub Repository](https://github.com/3DRacers/3D-Models/tree/master/stl)
+ - Preview and customize your car online with the [Online Editor](http://www.3dracers.com/editor) (Only static version)
  - Or pick one from the [community](http://forum.3dracers.com)
  - Create a [custom car model](http://www.3dracers.com/docs/design_new_car.html) from a 3D model
  
